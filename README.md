@@ -6,6 +6,6 @@ git clone https://github.com/lzqh/ex.git
 cd ex && mkdir build && cd build && cmake ../ex
 make
 
-##运行示例
+## 运行示例
 在build目录下
 ./test/example
